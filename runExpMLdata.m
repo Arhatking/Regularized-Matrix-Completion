@@ -1,5 +1,5 @@
 clc;clear;close all;
-addpath('utils','algorithm','algorithm/nuclear_active','algorithm/Maxide','dataset/MultiLabel');
+addpath('libs/PROPACK','utils','algorithm','algorithm/nuclear_active','algorithm/Maxide','dataset/MultiLabel');
 
 isSaving = 0;
 exp_times = 100;

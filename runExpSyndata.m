@@ -1,5 +1,5 @@
 clear;close all;
-addpath('utils','algorithm','algorithm/nuclear_active','algorithm/Maxide');
+addpath('libs/PROPACK','utils','algorithm','algorithm/nuclear_active','algorithm/Maxide');
 
 isSaving = 0;
 exp_times = 100;

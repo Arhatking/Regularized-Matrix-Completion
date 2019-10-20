@@ -1,5 +1,5 @@
 clc;clear;close all;
-addpath('utils','algorithm','algorithm/nuclear_active','algorithm/Maxide','dataset/WSN');
+addpath('libs/PROPACK','utils','algorithm','algorithm/nuclear_active','algorithm/Maxide','dataset/WSN');
 
 isSaving = 1;
 exp_times = 500;

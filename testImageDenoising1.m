@@ -1,5 +1,5 @@
 clc;clear;close all;
-addpath('utils','algorithm','algorithm/Maxide','algorithm/nuclear_active');
+addpath('libs/PROPACK','utils','algorithm','algorithm/Maxide','algorithm/nuclear_active');
 
 
 

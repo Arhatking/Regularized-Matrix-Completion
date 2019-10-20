@@ -1,5 +1,5 @@
 close all;
-addpath('utils','algorithm','algorithm/nuclear_active','algorithm/Maxide','dataset/WSN');
+addpath('libs/PROPACK','utils','algorithm','algorithm/nuclear_active','algorithm/Maxide','dataset/WSN');
 
 clims = [0,0.2];
 iter_num =100;
